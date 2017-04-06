@@ -1,9 +1,9 @@
 body{
-	background-color: LightPink;
+	background-color: LightGray;
 }
 h1{
 	font-size: 5em;
-	color: white;
+	color: LightPink;
 	font-family: Pacifico;
 	text-align: right;
 	letter-spacing: 1px;
